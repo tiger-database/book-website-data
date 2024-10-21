@@ -17,7 +17,8 @@
       "book_images\\le-cafe-des-possibles\\le-cafe-des-possibles~3.png",
       "book_images\\le-cafe-des-possibles\\le-cafe-des-possibles~4.jpg",
       "book_images\\le-cafe-des-possibles\\le-cafe-des-possibles~5.jpg",
-      "book_images\\le-cafe-des-possibles\\le-cafe-des-possibles~6.jpg"],
+      "book_images\\le-cafe-des-possibles\\le-cafe-des-possibles~6.jpg"
+    ],
     "description": "<p>Et si les plus grandes aventures naissaient d'une simple commande de café?</p><p>Dans un chaleureux café-librairie, niché en plein centre-ville, chaque recoin recèle un conte merveilleux. Ici, un auteur en quête d'inspiration croise le chemin d'une serveuse passionnée des mots, promesse d'un duo bouillonnant. Semaine après semaine, entre tasses renversées et muffins moelleux, ils tissent ensemble des récits captivants où l'humour côtoie le fantastique : un alien en recherche de cupcakes au chocolat, un prince charmant désarmé par une sorcière au cœur tendre, un soldat amnésique qui redécouvre la vie dans un village... Les pages tournent, les sourires fusent, et entre deux espressos, ils apprennent que les plus belles histoires sont parfois écrites en tandem.</p>",
     "mainCategories": ["En vedette", "Wattpad"],
     "subcategories": ["Nouvelles"],
@@ -31,6 +32,44 @@
       {
         "title": "Wattpad",
         "link": "https://www.wattpad.com/1434986716-le-caf%C3%A9-des-possibles-prologue"
+      }
+    ]
+  },
+  {
+    "ISBN": "9791035996710",
+    "ISBNs": [{ "isbn": "9791035996710", "format": "Papier" }],
+    "title": "Les Choses évaporées",
+    "authors": ["Nelly Plateau"],
+    "cover": "https://m.media-amazon.com/images/I/61PEN-CMAIL._SL1500_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/61PEN-CMAIL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61dJHgoroJL.jpg"
+    ],
+    "description": "<p>Alors que la Dre Emma Durand tente de s'accorder un répit bien mérité, elle se retrouve coincée dans un ascenseur avec une jeune fille énigmatique, Manu.</p><p>Ce qui aurait pu être un simple contretemps se transforme rapidement en une aventure incroyable.</p><p>Manu révèle être atteinte d'une maladie incurable, étrangement apaisée par la présence d'un séducteur italien charismatique, au passé trouble... Mais celui-ci s'est mystérieusement ÉVAPORÉ !</p><p>Emma se lance alors dans une enquête insolite et découvre un univers empreint de folie et de sombres secrets. Entre une riche franco-américaine obsédée par la Chine, une baronne férue d'art, une rockeuse religieuse et des meurtres chez une voyante, les pistes se multiplient.</p><p>L'autrice franco-canadienne, originaire de Provence, nous offrons une vision originale, moderne et décalée, du mythe du séducteur. Un singulier jeu de miroirs entre passé, présent, réel et virtuel.</p>",
+    "mainCategories": ["En vedette", "Roman"],
+    "nbOfPages": 327,
+    "releaseDate":"2024-06-01T00:00:00.000Z",
+    "language": "Français",
+    "publisher": "NELLY PLATEAU",
+    "dimensions": "13.34 x 2.08 x 20.32 cm",
+    "authorBio": "<p>Nelly Plateau, auteure franco-canadienne, originaire de Provence, suit des études de Lettres Modernes à Toulon et à Londres, où elle participe à des ateliers d'écriture et entame la rédaction d'un Dom Juan moderne. Plus tard, son esprit curieux et voyageur l'entraîne à Paris. Elle décroche son diplôme d'interprète en langue des signes et travaille à la télévision. Elle s'expatrie également, un an, en Nouvelle-Zélande, en tant que professeure de français.</p><p>Finalement, installée à Montréal, elle étudie la langue des signes québécoise, continue sa profession, et termine sa licence de psychologie. Elle s'inscrit aussi à des cours de théâtre et joue dans des courts métrages.</p><p>Son univers fantastique et poétique se découvre dans son recueil de textes : Un An avec Eléa et autres nouvelles poétiques.</p><p>En 2024, elle termine son premier roman, Les Choses évaporées. L'autrice nous y offre une vision originale et décalée du mythe du séducteur à travers un jeu de miroirs mêlant réel et virtuel.</p>",
+    "authorImg": "https://m.media-amazon.com/images/S/aplus-media/kdp/049d0242-0f64-429b-bced-492658863cd6.__CR23,0,1105,1105_PT0_SX300_V1___.jpg",
+    "rating": 5,
+    "ratingLink": "https://www.amazon.ca/dp/2982259206?ref=cm_sw_r_cp_ud_dp_R14MN31JVGNVZQF3ZS04&ref_=cm_sw_r_cp_ud_dp_R14MN31JVGNVZQF3ZS04&social_share=cm_sw_r_cp_ud_dp_R14MN31JVGNVZQF3ZS04&starsLeft=1&skipTwisterOG=1&fbclid=IwZXh0bgNhZW0CMTAAAR3fka3Q4KnWAWv577ZeSAnDUS3JR22KoCcxhJb0k66i0G3BLsdRSHAdIMo_aem_1UmN5bQr-p3BqdchUvIkJg",
+    "ratingSrc": "Amazon",
+    "socialLinks": ["https://www.facebook.com/profile.php?id=61560312350354"],
+    "sellers": [
+      {
+        "title": "Amazon.ca",
+        "link": "https://www.amazon.ca/dp/2982259206?ref=cm_sw_r_cp_ud_dp_R14MN31JVGNVZQF3ZS04&ref_=cm_sw_r_cp_ud_dp_R14MN31JVGNVZQF3ZS04&social_share=cm_sw_r_cp_ud_dp_R14MN31JVGNVZQF3ZS04&starsLeft=1&skipTwisterOG=1&fbclid=IwZXh0bgNhZW0CMTAAAR3fka3Q4KnWAWv577ZeSAnDUS3JR22KoCcxhJb0k66i0G3BLsdRSHAdIMo_aem_1UmN5bQr-p3BqdchUvIkJg"
+      },
+      {
+        "title": "Amazon.fr",
+        "link": "https://www.amazon.fr/dp/2982259206?ref=cm_sw_r_cp_ud_dp_E6274K862ESWASY7KMSN&ref_=cm_sw_r_cp_ud_dp_E6274K862ESWASY7KMSN&social_share=cm_sw_r_cp_ud_dp_E6274K862ESWASY7KMSN&starsLeft=1&skipTwisterOG=1&fbclid=IwZXh0bgNhZW0CMTAAAR1onlm747QN51IDSHM7m4HRBHlAMTIENUYTtxHwEaR2Z6xH-HHSuBMYkAw_aem_e6haj1VaIdrNcgvHliXySA#detailBullets_feature_div"
+      },
+      {
+        "title": "nellyplateau-autrice.com",
+        "link": "https://www.nellyplateau-autrice.com/boutique"
       }
     ]
   }

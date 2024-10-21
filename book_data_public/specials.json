@@ -1,7 +1,6 @@
 [
   {
     "ISBN": "le-cafe-des-possibles",
-    "priority": 1,
     "type": "book",
     "language": "Français"
   },
@@ -38,5 +37,11 @@
     "language": "Français",
     "externalLink": "https://www.wattpad.com/story/366144336-le-caf%C3%A9-des-possibles",
     "backgroundColor": "black"
+  },
+  {
+    "ISBN": "9791035996710",
+    "priority": 1,
+    "type": "book",
+    "language": "Français"
   }
 ]

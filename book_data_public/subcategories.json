@@ -327,5 +327,29 @@
       "Thriller",
       "Vampire"
     ]
+  },
+  "en": {
+    "wattpad": [
+      "Romance",
+      "LGBTQ+",
+      "Werewolf",
+      "New Adult",
+      "Fantasy",
+      "Fanfiction",
+      "Short Story",
+      "Teen Fiction",
+      "Historical Fiction",
+      "Paranormal",
+      "Humor",
+      "Horror",
+      "Contemporary Lit",
+      "Diverse Lit",
+      "Mystery",
+      "Thriller",
+      "Science Fiction",
+      "Adventure",
+      "Non-Fiction",
+      "Poetry"
+    ]
   }
 }

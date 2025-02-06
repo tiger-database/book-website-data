@@ -1,0 +1,39 @@
+[
+  {
+    "id": "the-cafe-of-possibles",
+    "title": "The Café of Possibles",
+    "isWattpadBook": true,
+    "dateAdded": "2024-03-31T00:00:00.000Z",
+    "authors": ["A Simple Tiger"],
+    "authorsWithLink": [
+      {
+        "author": "A Simple Tiger",
+        "link": "https://www.wattpad.com/user/un-simple-tigre"
+      }
+    ],
+    "cover": "book_covers\\the-cafe-of-possibles.webp",
+    "images": [
+      "book_images\\the-cafe-of-possibles\\the-cafe-of-possibles~0.webp",
+      "book_images\\the-cafe-of-possibles\\the-cafe-of-possibles~1.webp",
+      "book_images\\the-cafe-of-possibles\\the-cafe-of-possibles~2.jpg",
+      "book_images\\the-cafe-of-possibles\\the-cafe-of-possibles~3.png",
+      "book_images\\the-cafe-of-possibles\\the-cafe-of-possibles~4.jpg",
+      "book_images\\the-cafe-of-possibles\\the-cafe-of-possibles~5.jpg",
+      "book_images\\the-cafe-of-possibles\\the-cafe-of-possibles~6.jpg"
+    ],
+    "description": "<p>What if the greatest adventures were born from a simple coffee order?</p><p>In a cozy bookshop café, nestled in the heart of the city, every corner holds a marvelous tale. Here, an author searching for inspiration crosses paths with a waitress passionate about words, promising a dynamic duo. Week after week, amidst spilled cups and soft muffins, they weave together captivating stories where humor meets the fantastical: an alien searching for chocolate cupcakes, a prince charming disarmed by a tender-hearted witch, an amnesiac soldier rediscovering life in a village... The pages turn, smiles abound, and between two espressos, they learn that the most beautiful stories are sometimes written in tandem.</p>",
+    "mainCategories": ["Featured", "Wattpad"],
+    "subcategories": ["Short Story"],
+    "language": "English",
+    "socialLinks": [
+      "https://www.wattpad.com/user/un-simple-tigre",
+      "https://linktr.ee/un_simple_tigre"
+    ],
+    "sellers": [
+      {
+        "title": "Wattpad",
+        "link": "https://www.wattpad.com/1478448292-the-caf%C3%A9-of-possibles-prologue"
+      }
+    ]
+  }
+]

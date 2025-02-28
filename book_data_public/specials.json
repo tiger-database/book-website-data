@@ -1,0 +1,42 @@
+[
+  {
+    "id": "le-cafe-des-possibles",
+    "type": "book",
+    "language": "Français",
+    "priority": 1
+  },
+  {
+    "id": "the-cafe-of-possibles",
+    "type": "book",
+    "language": "English",
+    "priority": 1
+  },
+  {
+    "src": "ad-media\\merci-de-soutenir.webp",
+    "type": "image",
+    "language": "Français",
+    "externalLink": "https://linktr.ee/un_simple_tigre",
+    "backgroundColor": "white"
+  },
+  {
+    "src": "ad-media\\thank-you-for-supporting.webp",
+    "type": "image",
+    "language": "English",
+    "externalLink": "https://linktr.ee/un_simple_tigre",
+    "backgroundColor": "white"
+  },
+  {
+    "src": "ad-media\\prends-un-cafe.mp4",
+    "type": "video",
+    "language": "Français",
+    "externalLink": "https://www.wattpad.com/story/366144336-le-caf%C3%A9-des-possibles",
+    "backgroundColor": "black"
+  },
+  {
+    "src": "ad-media\\le-cafe-des-possibles.mp4",
+    "type": "video",
+    "language": "Français",
+    "externalLink": "https://www.wattpad.com/story/366144336-le-caf%C3%A9-des-possibles",
+    "backgroundColor": "black"
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "id": "bookyverse-magazine",
+    "title": "✨ BOOKYVERSE magazine ✨",
+    "isWattpadBook": true,
+    "dateAdded": "2025-10-04T00:00:00.000Z",
+    "authors": ["Bookyverse"],
+    "authorsWithLink": [
+      {
+        "author": "Bookyverse",
+        "link": "https://www.wattpad.com/user/Bookyverse"
+      }
+    ],
+    "cover": "book_covers\\bookyverse-magazine.png",
+    "description": "<p>Plongez au cœur de l'univers des auteurs de Bookyverse !</p><p>Chaque partie vous ouvre les portes de leur imaginaire avec des entrevues exclusives, des coulisses de création et des révélations inspirantes sur leurs méthodes d'écriture.</p><p>Et parce qu'un bon magazine littéraire doit aussi se savourer comme une lecture en soi, vous y découvrirez des extraits captivants, de courts textes inédits et d'autres trésors qui invitent à explorer la littérature sous toutes ses formes.</p><p>Entrez dans le BOOKYVERSE : là où les histoires se racontent et se partagent !</p><p>✉️ Vous êtes auteur·rice et souhaitez être interviewé·e, partager un extrait de votre roman ou voir votre œuvre mise en valeur sur www.Bookyverse.com ? Écrivez à allo.un.simple.tigre@gmail.com</p><p>Pour toute collaboration ou contribution au magazine (comme faire passer des interviews), vous pouvez aussi m'écrire à mon courriel.</p>",
+    "mainCategories": ["En vedette", "Wattpad"],
+    "subcategories": ["Aléatoire"],
+    "language": "Français",
+    "socialLinks": [
+      "https://linktr.ee/un_simple_tigre"
+    ],
+    "sellers": [
+      {
+        "title": "Wattpad",
+        "link": "https://www.wattpad.com/1580736982-%E2%9C%A8-bookyverse-magazine-%E2%9C%A8-introduction"
+      }
+    ]
+  }
+]

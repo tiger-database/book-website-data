@@ -1,0 +1,14 @@
+[
+  {
+    "id": "bookyverse-magazine",
+    "type": "book",
+    "language": "Français",
+    "priority": 1
+  },
+  {
+    "src": "ad-media\\aide.png",
+    "type": "image",
+    "language": "Français",
+    "backgroundColor": "#ff3131"
+  }
+]
